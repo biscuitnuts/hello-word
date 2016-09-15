@@ -1,2 +1,2 @@
 # hello-word
-Let's learn the basics of using Github
+This is the beginning of using github and making a change on one of the branches.
